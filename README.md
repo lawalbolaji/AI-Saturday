@@ -1,2 +1,2 @@
 # AI-Saturday
- All machine learning code for projects Ill take on during the course of the program
+This repository contains the lectures and solutions to all assignments undertaken in the course of AI-Saturday 2020
